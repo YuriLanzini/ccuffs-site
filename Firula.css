@@ -1,0 +1,54 @@
+body{
+  width: 92%;
+  margin: auto;
+  font-family: sans-serif;
+  color: white;
+  font-size: 100%;
+  background: linear-gradient(68.15deg, #000000 16.62%, #191970 85.61%);
+}
+main{
+  background: #00000054;
+  padding: 10px 40px;
+border-radius: 21px;
+}
+  .cabecalho{
+  margin-left: 1cm;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 8px;
+
+    }
+.menu{
+    margin: auto;
+  display:flex;
+  font-weight: 800;
+  gap:48px;
+  font-size:22px;
+}
+.frase{
+  margin-left: 3cm;
+  font-size:65px;
+  font-family: Courier New, monospace
+}
+.conteudo{
+line-height: 1.5;
+
+}
+
+.ren{
+  font-family: Courier New, monospace
+}
+.sites{
+  line-height: 3.5;
+}
+.farid{
+  border-radius: 12px;
+}
+.site{
+    color:white;
+}
+.inter{
+  border-radius: 20px;
+}
